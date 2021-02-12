@@ -25,7 +25,7 @@ function App() {
         setCity={setCity}
         fetchCityWeather={fetchCityWeather}
       />
-      {/* Use city weather data to show it on the screen */}
+      {/* Use city weather data to ok show it on the screen */}
       <CityWeather
         cityWeather = {cityWeather}
       />
